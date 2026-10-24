@@ -55,4 +55,11 @@ In ChatGPT's managed Sites environment, use its supplied setup, preview, source,
 
 ## Launch decisions
 
-Before external promotion, confirm final brand assets and copy, the beta invitation details, inquiry follow-up ownership, privacy/retention operations, and the desired Site audience. Add an email notification integration if automatic alerts are wanted. Replace illustrative previews with approved screenshots or a recorded demo when available.
+Before external promotion, confirm final copy, the beta invitation details, inquiry follow-up ownership, privacy/retention operations, and the desired Site audience. Add an email notification integration if automatic alerts are wanted. Replace illustrative previews with approved screenshots or a recorded demo when available.
+
+## Brand assets
+
+The EasyPM dot-burst mark, Georgia wordmark, and favicon are sourced from `Flexview-code/easypm-landing` on `master`:
+
+- `public/images/easypm-logo.svg` (blob `8673e147ab6ff0290f8beef867024b1ddf1c383d`): used in the header, footer, and illustrative product header. Only unused right-side canvas space is trimmed; artwork, typography, and colours are retained.
+- `app/icon.svg` (blob `b7d46e204ceca4463a7ba9fc2a509bda681be588`): blue rounded-square favicon with the white dot-burst mark.
